@@ -6,6 +6,12 @@
 
 <br/>
 
+Go to the [developing notes](doc/notes/en-us/index.md).
+
+前往[开发记录](doc/notes/zh-cn/index.md)。
+
+<br/>
+
 It is being developed now. Here are *preview*.
 
 开发中，*前瞻*如下。
